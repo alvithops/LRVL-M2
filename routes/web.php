@@ -8,7 +8,7 @@ Route::get('/', function () {
 
 // Route Statis
 Route::get('/profil', function () {
-    return 'Ini adalah halaman profil';
+    return 'Ini adalah halaman profile';
 });
 
 // Route Parameter
